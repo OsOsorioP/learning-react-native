@@ -3,7 +3,7 @@
 ### Herramientas:
 
 - React Native
-- Expor
+- Expo
 - Tailwind
 
 ### Aprendido
