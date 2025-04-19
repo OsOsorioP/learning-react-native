@@ -1,12 +1,12 @@
-### Aprendiendo React Native
+## Aprendiendo React Native
 
-## Herramientas:
+### Herramientas:
 
 - React Native
 - Expor
 - Tailwind
 
-## Aprendido
+### Aprendido
 
 - Tailwindcss install
 - Enrutado
